@@ -13,23 +13,27 @@
 <h2>When opening the project:</h2>
 
 <h3>Running Frontend:</h3>
-1. Open up your IDE's terminal
-2. Type the command "git pull" to update your code  with the master branch
-3. Run the command "npm i --save" to download any new dependencies added, and to save them to the package.json.
-4. Run "npm start"
-
+<ol>
+  <li>Open up your IDE's terminal</li>
+  <li>Type the command "git pull" to update your code  with the master branch</li>
+   <li>Run the command "npm i --save" to download any new dependencies added, and to save them to the package.json.</li>
+  <li>Run "npm start"</li>
+</ol>
 <h2>Running Backend:</h3>
-1. Open Eclipse.
-2. Click on File-->Import
-3. Browse to the backend folder(in this case, onlinematchsim)
-4. The project will be set up.
-5. Next, look at the file explorer.
-  a. Expand onlinematchsim.
-  b. Expand <i>src/main/java</i>
-  c. Expand <i>com.java.project.onlinematchsim</i>
-  d. Open MatchSim.java.
-  e. Right-click-->Run as-->Java Application.
-  
+<ul>
+<li> Open Eclipse. </li>
+  <li>Click on File-->Import</li>
+  <li>Browse to the backend folder(in this case, onlinematchsim)</li>
+  <li>The project will be set up.</li>
+  <li>Next, look at the file explorer.</li>
+  <ol>
+    <li>Expand onlinematchsim.</li>
+    <li>Expand <i>src/main/java</i></li>
+    <li> Expand <i>com.java.project.onlinematchsim</i></li>
+    <li>Open MatchSim.java.</li>
+    <li>Right-click-->Run as-->Java Application.</li>
+  </ol>
+</ul> 
 
 
 
