@@ -19,7 +19,7 @@
    <li>Run the command "npm i --save" to download any new dependencies added, and to save them to the package.json.</li>
   <li>Run "npm start"</li>
 </ol>
-<h2>Running Backend:</h3>
+<h3>Running Backend:</h3>
 <ul>
 <li> Open Eclipse. </li>
   <li>Click on File-->Import</li>
